@@ -1,0 +1,12 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+Drafts/nba_cache/
+Drafts1/nba_cache/
+
+Drafts1/*.csv
+Drafts1/*.txt
+Drafts1/*.npz
